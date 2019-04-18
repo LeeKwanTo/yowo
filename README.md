@@ -14,4 +14,4 @@ https://org.modao.cc/app/cXxJgDJJNKvqrYjm0oWlLvb5xXU1qeI
 
 ![](/mockingbot.png)
 
-scan a QR code, Preview on your phone
+scan above QR code, Preview on your phone
