@@ -21,5 +21,5 @@ scan above QR code, Preview on your phone
 
 ## Screenshot of online mall
 
-![](/screenshots2.png)
-![](/screenshots3.png)
+![](/Screenshots2.png)
+![](/Screenshots3.png)
