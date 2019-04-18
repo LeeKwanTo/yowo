@@ -10,3 +10,4 @@ All function are null and void.
 
 mockingbot demo of repair computer 
 https://org.modao.cc/app/cXxJgDJJNKvqrYjm0oWlLvb5xXU1qeI
+![](/mockingbot.png)
