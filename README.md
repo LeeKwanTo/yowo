@@ -15,9 +15,11 @@ https://org.modao.cc/app/cXxJgDJJNKvqrYjm0oWlLvb5xXU1qeI
 
 ![scan above QR code, Preview on your phone](/mockingbot.png)
 
+scan above QR code, Preview on your phone
+
 
 
 ## Screenshot of online mall
 
-![](/Screenshots2.png)
-![](/Screenshots2.png)
+![](/screenshots2.png)
+![](/screenshots3.png)
