@@ -1,5 +1,5 @@
 # yowo Website Demo
-The HTML Presentation Framework http://www.justo.top/yowo
+The HTML Presentation Framework https://leekwanto.github.io/yowo
 
 Orginal web page *yowoit.com* was stop using, the presentation framework only as a demo.
 
